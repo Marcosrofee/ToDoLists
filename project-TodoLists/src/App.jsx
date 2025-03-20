@@ -1,12 +1,12 @@
 import NavBar from "../src/components/Navbar/NavBar"
-import FormList from "../src/components/FormList/FormList"
+import TodoList from "../src/components/TodoList/TodoList"
 
 function App() {
 
    return (
      <div>
          <NavBar/> 
-         <FormList/>
+         <TodoList/>
      </div>     
    )
 }
