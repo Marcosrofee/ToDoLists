@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./Modal.scss";
+import "./Modal.css";
 import CloseButton from "../CloseButton/CloseButton"
 
 function Modal(props) {
