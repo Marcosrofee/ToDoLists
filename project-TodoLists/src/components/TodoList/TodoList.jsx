@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./TodoList.scss";
+import "./TodoList.css";
 
 import Checkbox from "../Checkbox/Checkbox";
 import EditButton from "../EditButton/EditButton";
